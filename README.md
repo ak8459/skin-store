@@ -17,7 +17,8 @@ HTML, CSS, Javascript, local storage.
 
 ## [Want to see live preview »](http://127.0.0.1:5501/SkinStoreCloneFinal/index.html).
 
-##Images
+## Images
 
 - Home page
- 
+  ![Screenshot 2023-08-14 224130](https://github.com/ak8459/skin-store/assets/87300147/00cbb2fb-fdb7-46d8-ac8f-657fb1247d00)
+
