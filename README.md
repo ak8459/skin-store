@@ -20,5 +20,10 @@ HTML, CSS, Javascript, local storage.
 ## Images
 
 - Home page
-  ![Screenshot 2023-08-14 224130](https://github.com/ak8459/skin-store/assets/87300147/00cbb2fb-fdb7-46d8-ac8f-657fb1247d00)
+
+   ![Screenshot 2023-08-14 224130](https://github.com/ak8459/skin-store/assets/87300147/00cbb2fb-fdb7-46d8-ac8f-657fb1247d00)
+
+- Product Page
+
+   ![image](https://github.com/ak8459/skin-store/assets/87300147/0462d9f6-9bf4-4e1e-b526-68b8b05aba6f)
 
