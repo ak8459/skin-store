@@ -17,4 +17,7 @@ HTML, CSS, Javascript, local storage.
 
 ## [Want to see live preview »](http://127.0.0.1:5501/SkinStoreCloneFinal/index.html).
 
-#Images
+##Images
+
+- Home page
+ 
