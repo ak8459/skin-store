@@ -15,7 +15,7 @@ This is a solo project, executed in 5 days.
 ## Tech Stack:
 HTML, CSS, Javascript, local storage.
 
-## [Want to see live preview »](http://127.0.0.1:5501/SkinStoreCloneFinal/index.html).
+## [Want to see live preview »](http://127.0.0.1:5501/SkinStoreCloneFinal/index.html)
 
 ## Images
 
