@@ -1,4 +1,4 @@
-#Skin Store Clone
+## Skin Store Clone
 Skin Store is an e-commerce site for premium beauty products across skin, makeup, and hair.
 This is a solo project, executed in 5 days.
 
@@ -26,4 +26,9 @@ HTML, CSS, Javascript, local storage.
 - Product Page
 
    ![image](https://github.com/ak8459/skin-store/assets/87300147/0462d9f6-9bf4-4e1e-b526-68b8b05aba6f)
+
+- Cart Page
+
+  ![image](https://github.com/ak8459/skin-store/assets/87300147/d8955663-2e36-476a-8e0c-2efdb21da5dd)
+
 
